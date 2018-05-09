@@ -1,0 +1,9 @@
+{
+  "name": "5e-cheat-sheet",
+  "version": "1.0.0",
+  "description": "An interactive character sheet for 5th edition of Dungeons & dragons",
+  "main": "index.js",
+  "repository": "https://github.com/stefanMisic/5e-cheat-sheet.git",
+  "author": "Stefan Misic <stefan.misic.491@gmail.com>",
+  "license": "MIT"
+}
