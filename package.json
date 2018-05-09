@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/stefanMisic/5e-cheat-sheet.git",
   "author": "Stefan Misic <stefan.misic.491@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
