@@ -1,10 +1,11 @@
-import React from "react";
+import React from 'react';
 
-import "./App.css";
+import './App.css';
+import { HomeContainer } from './features/home'
 
 const App = () => (
   <div className="App">
-    <h1>Hello, React!</h1>
+    <HomeContainer />
   </div>
 );
 
